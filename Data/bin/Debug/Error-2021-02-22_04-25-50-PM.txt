@@ -1,0 +1,14 @@
+4:25:50 PM Monday, February 22, 2021
+<Class Name Error
+<Messages>
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Microsoft.Xrm.Sdk.DataCollection`2.get_Item(TKey key)
+   at Remediation.GetTotalSalaries.<>c.<GetTotalSalary>b__2_0(Entity employee)
+   at System.Linq.Lookup`2.Create[TSource](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at System.Linq.GroupedEnumerable`3.GetEnumerator()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at Remediation.GetTotalSalaries.GetTotalSalary(IOrganizationService service)
+   at Remediation.GetTotalSalaries.StartUp(IOrganizationService conString)
+   at Data.Program.Main() in C:\Users\wdxadmin\source\repos\Remediation\Data\Program.cs:line 19
+----

@@ -1,0 +1,15 @@
+4:19:22 PM Monday, February 22, 2021
+<Class Name Error
+<Messages>
+System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'new_course_accountemployee' entity doesn't contain attribute with Name = 'Status' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=6477521, MinActiveRowVersion=6477521, MetadataInstanceId=51306677, LastUpdated=2021-02-20 10:07:53.173 (Fault Detail is equal to Exception details: 
+ErrorCode: 0x80041103
+Message: 'new_course_accountemployee' entity doesn't contain attribute with Name = 'Status' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=6477521, MinActiveRowVersion=6477521, MetadataInstanceId=51306677, LastUpdated=2021-02-20 10:07:53.173
+TimeStamp: 2021-02-22T14:19:22.6399297Z
+--
+Exception details: 
+ErrorCode: 0x80041103
+Message: 'new_course_accountemployee' entity doesn't contain attribute with Name = 'Status' and NameMapping = 'Logical'. MetadataCacheDetails: ProviderType=Dynamic, StandardCache=True, IsLoadedInStagedContext = False, Timestamp=6477521, MinActiveRowVersion=6477521, MetadataInstanceId=51306677, LastUpdated=2021-02-20 10:07:53.173
+TimeStamp: 2021-02-22T14:19:22.6399297Z
+--
+).
+----

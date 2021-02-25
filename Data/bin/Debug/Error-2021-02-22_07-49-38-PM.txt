@@ -1,0 +1,11 @@
+7:49:38 PM Monday, February 22, 2021
+<Class Name Error
+<Messages>
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.RemoveAt(Int32 index)
+   at Remediation.GetCSV.CreateAccount(IOrganizationService service, DataTable csvData, DataTable badData)
+   at Remediation.GetCSV.StartUp(IOrganizationService service)
+   at Data.Program.Main() in C:\Users\wdxadmin\source\repos\Remediation\Data\Program.cs:line 19
+----

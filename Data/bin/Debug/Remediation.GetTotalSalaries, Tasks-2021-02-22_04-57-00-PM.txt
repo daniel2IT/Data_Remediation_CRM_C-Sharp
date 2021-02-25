@@ -1,0 +1,13 @@
+4:57:00 PM Monday, February 22, 2021
+<Class Name Remediation.GetTotalSalaries, Tasks
+<Messages>
+Calculated Salary for AccId c5741213-1e75-eb11-a812-000d3adbb875 Finally Got 312314.0200Eur
+Calculated Salary for AccId c6741213-1e75-eb11-a812-000d3adbb875 Finally Got 1.0200Eur
+Calculated Salary for AccId c7741213-1e75-eb11-a812-000d3adbb875 Finally Got 11111.0000Eur
+Calculated Salary for AccId c8741213-1e75-eb11-a812-000d3adbb875 Finally Got 467.0200Eur
+Calculated Salary for AccId c9741213-1e75-eb11-a812-000d3adbb875 Finally Got 1.0100Eur
+Calculated Salary for AccId cb741213-1e75-eb11-a812-000d3adbb875 Finally Got 39.0700Eur
+Calculated Salary for AccId cc741213-1e75-eb11-a812-000d3adbb875 Finally Got 442.0000Eur
+Calculated Salary for AccId cd741213-1e75-eb11-a812-000d3adbb875 Finally Got 442.0000Eur
+
+----

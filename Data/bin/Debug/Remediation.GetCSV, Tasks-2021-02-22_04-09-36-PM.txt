@@ -1,0 +1,10 @@
+4:09:36 PM Monday, February 22, 2021
+<Class Name Remediation.GetCSV, Tasks
+<Messages>
+CSV Data Is Successfully Loaded...
+import Error in 0 index A validation error occurred.  The length of the 'new_name' attribute of the 'new_course_account' entity exceeded the maximum allowed length of '100'. 
+Accounts -  Is Successfully Loaded To CRM Data...
+import Error in 5 index A validation error occurred.  The length of the 'new_name' attribute of the 'new_course_accountemployee' entity exceeded the maximum allowed length of '100'. 
+Employees -  Is Successfully Loaded To CRM Data...
+
+----
